@@ -1,4 +1,6 @@
 # BookKeeping
+![image](https://github.com/Jonhson1997/BookKeeping/blob/master/pic.jpg)
+
  與女友想要共同記賬而誕生的雙人記帳系統,
 
  使用CodeIgniter這套MVC框架製作,
